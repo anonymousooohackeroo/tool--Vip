@@ -3,4 +3,6 @@
 
 #cd tool--Vip
 
-#chmod +x Tool--Vip
+#chmod +x Tool--Vip.sh
+
+#base Tool--Vip.sh
