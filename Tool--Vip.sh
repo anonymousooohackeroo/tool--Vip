@@ -19,8 +19,6 @@ echo -e "\e[1;91m [+] YouTube: \e[1;92mTermuxProfessor"
 echo -e "\e[1;91m [+] Github: \e[1;92mtermuxprofessor\e[1;97m"
 echo ""
 read -p " Does you want to install Parrot Shell in Termux?(Yes/No) : " input
-  
-clear
 figlet -c "Tool®poison"
 echo "Loading.."
 echo "████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 20%	"
