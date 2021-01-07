@@ -1,19 +1,19 @@
 #!/usr/bin/bash
  clear
-                            '-._|"
-echo -e"   `;-.          ___,"
-echo -e"     `.`\_...._/`.--`"
-echo -e"      \        /      ,"
-echo -e"       /()   () \    .' `-._"
-echo -e"      |)  .    ()\  /   _.'"
-echo -e"     \  -'-     ,; '. <"
-echo -e"       ;.__     ,;|   > \"
-echo -e"     / ,    / ,  |.-'.-'"
-echo -e"     (_/    (_/ ,;|.<`"
-echo -e"       \    ,     ;-`"
-echo -e"       >   \    /"
-echo -e"       (_,-'`> .'"
-echo -e"   jgs      (_,'"
+                            
+echo ""
+echo -e "         \e[1;91m__\e[1;92m,-\e[1;93m////\e[1;92m, "
+echo -e "        \e[1;91m/__\e[1;92m) (\e[1;93mo\e[1;92m) ) "
+echo -e "          /.,--. \       "
+echo -e "         /,-'/.\. \      "
+echo -e "         \.  \.\ \ \     "
+echo -e "          \.  \\\ \  /   "
+echo -e "      \e[1;93m=====\e[1;91m((\e[1;93m=\e[1;91m((\e[1;92m\\e[1;93m=====.=== "
+echo -e "           \e[1;92m    \ \ \.\   "
+echo -e "                \ \ \'     "
+echo -e "                 \ \'      "
+echo -e "                  \ \     "
+echo -e "                   '-'    \e[1;97m "
 
 echo ""
 echo -e "\e[1;91m [+] the  system
