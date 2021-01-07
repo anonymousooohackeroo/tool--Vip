@@ -1,6 +1,6 @@
 #!/usr/bin/bash
  clear
-                            
+  
 echo ""
 echo -e "         \e[1;91m__\e[1;92m,-\e[1;93m////\e[1;92m, "
 echo -e "        \e[1;91m/__\e[1;92m) (\e[1;93mo\e[1;92m) ) "
@@ -14,12 +14,12 @@ echo -e "                \ \ \'     "
 echo -e "                 \ \'      "
 echo -e "                  \ \     "
 echo -e "                   '-'    \e[1;97m "
-
 echo ""
-echo -e "\e[1;91m [+] the  system
-echo -e "\e[1;91m [+] hi anonymous
+echo -e "\e[1;91m [+] YouTube: \e[1;92mTermuxProfessor"
+echo -e "\e[1;91m [+] Github: \e[1;92mtermuxprofessor\e[1;97m"
 echo ""
-read -p " Does you want to install Tool®poison in Termux?(Yes/No) : " input
+read -p " Does you want to install Parrot Shell in Termux?(Yes/No) : " input
+  
 clear
 figlet -c "Tool®poison"
 echo "Loading.."
